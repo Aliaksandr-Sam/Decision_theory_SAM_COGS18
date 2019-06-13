@@ -1,0 +1,8 @@
+[
+  "tests_sam.py::test_Lottery",
+  "tests_sam.py::test_choice_maximax",
+  "tests_sam.py::test_choice_minimax",
+  "tests_sam.py::test_sorted_list_unique",
+  "tests_sam.py::test_fosd_lottery",
+  "tests_sam.py::test_mean_preserving_spread"
+]
